@@ -4,3 +4,5 @@ console.log(buffer);
 
 // convert buffer to string
 console.log(buffer.toString());
+// convert buffer to json
+console.log(buffer.toJSON());
