@@ -1,0 +1,125 @@
+Abstract: In his book “Foucault’s pendulum”, Umberto Eco wrote: “Any fact becomes important when it’s connected to another”. More ten years ago, it was a so nice surprise to me when knowing that Foucault pendulum was tightly connected to the whole of Universe. It’s great! (Trong cuốn “Con lắc Foucault”, Umberto Eco viết: “Bất kỳ sự kiện nào cũng sẽ trở thành quan trọng khi nó được liên hệ với một sự kiện khác”. Hơn mười năm trước, thật ngạc nhiên thú vị vô cùng khi tôi biết rằng con lắc Foucault có mối liên hệ chặt chẽ với toàn bộ vũ trụ. Thật tuyệt vời!).
+
+Đã hơn nửa thế kỷ trôi qua, nhưng có một kỷ niệm thơ ấu tôi không bao giờ quên: đó là câu chuyện về con lắc Foucault mà thầy dạy Địa lý năm đầu cấp II của tôi là thầy Cang kể cho học trò nghe.
+
+Đầu tiên thầy làm thí nghiệm: buộc một vật nặng vào một sợi dây, đầu kia của sợi dây buộc vào một chiếc thước kẻ, hai tay thầy cầm hai đầu thước kẻ sao cho thước kẻ nằm ngang và cho vật nặng dao động như một con lắc đồng hồ. Trong khi con lắc dao động, hai tay thầy quay chiếc thước kẻ ở tư thế luôn luôn song song với sàn lớp học, rồi thầy nói:
+
+– Các em nhìn đây, trong khi thước kẻ quay, con lắc vẫn dao động theo tư thế ban đầu, nó không chịu quay theo thước kẻ, thế có lạ không?
+
+Rồi thầy giảng đó là hiện tượng con lắc Foucault, do Léon Foucault, một nhà vật lý người Pháp, khám phá ra và ông đã làm thí nghiệm như thế với một con lắc vĩ đại trong điện Panthéon ở Paris để chứng minh Trái Đất quay xung quanh trục.
+
+Tôi trố mắt thán phục, nuốt từng lời thầy đến nỗi bây giờ vẫn cứ nghe như văng vẳng bên tai. Đối với tôi, đó là một trong những câu chuyện hấp dẫn nhất và thầy Cang là một trong những người thầy tuyệt vời nhất.
+
+Nhưng chuyện con lắc Foucault không dừng lại ở đó. Nó luôn bám theo tôi với một câu hỏi: tại sao con lắc giữ nguyên mặt phẳng dao động của nó?
+
+1/ Bản chất hiện tượng con lắc Foucault:
+
+Lúc nhỏ tôi chưa đủ khôn để nghĩ tới câu hỏi ấy. Nhưng nó lờ mờ xuất hiện vào tuổi sinh viên, để rồi lớn dần lên với tuổi tác… và trong một thời gian dài tôi không tìm được câu trả lời.
+
+Nhưng Kinh Thánh có câu: “Hãy gõ, cửa sẽ mở”.
+
+Cuối cùng thì cửa đã mở: trong một dịp tha thẩn tại một hiệu sách ở Sydney, tôi gặp một cuốn sách với cái tên làm tôi không cưỡng nổi trí tò mò: “God’s Equation”[1]… Tôi mua ngay và đọc ngay. Càng đọc càng thích, và cái gì đến phải đến: tôi choáng váng vì xúc động khi gặp lại câu chuyện con lắc Foucault.
+
+Giá sách chỉ có 37 AUD – quá rẻ để học được từ đó một bài học lớn: một tư tưởng được các nhà khoa học sau này gọi là Nguyên lý Mach (Mach’s principle) do nhà bác học lỗi lạc người Áo Ernst Mach nêu lên, mà nhờ đó có thể giải thích được luật quán tính nói chung và bản chất của hiện tượng con lắc Foucault nói riêng.Vấn đề này đã được trình bầy kỹ ở Chương 11 của cuốn sách nói trên, với tư tưởng chủ yếu như sau:
+
+Theo Mach, mọi điểm vật chất trong vũ trụ đều chịu tác động của toàn bộ vũ trụ, tổng hợp lực của toàn bộ vũ trụ tác động lên một điểm vật chất chính là lực quán tính tác động lên điểm ấy, và lực quán tính làm cho con lắc giữ nguyên mặt phẳng dao động của nó, bất chấp Trái Đất quay.
+
+Điều bất ngờ lý thú là Nguyên lý Mach lại trở thành tiền đề để Albert Einstein đi tới thuyết tương đối:
+
+“…mục tiêu theo đuổi của Einstein là giải thích vũ trụ theo tư tưởng của Mach, trong đó sự phân bố khối lượng của vũ trụ sẽ tạo nên những cái khung quán tính (con lắc Foucault dao động đều đặn là do hợp lực của toàn bộ vật chất có khối lượng trong vũ trụ tác động lên nó). Einstein dường như đã tin vào nguyên lý Mach, và trong suốt thời gian ở Praha ông đã viết về sự đáng tin cậy của giả thuyết nói rằng tổng quán tính của một điểm khối lượng là do sự hiện diện của tất cả các khối lượng khác gây ra – một kiểu tương tác của một điểm vật chất với tất cả các khối lượng khác trong vũ trụ.  Sau này tại Zurich ông bị thuyết phục hơn bao giờ hết rằng nguyên lý đó có giá trị, và thậm chí ông đã viết cho Mach rằng nếu sự bẻ cong tia sáng được khám phá thì nó cũng sẽ xác nhận giả thuyết của Mach”[2].
+
+Thí nghiệm năm 1919 của Thomas Eddington đã xác nhận tính cong của ánh sáng, chứng minh tính đúng đắn của Thuyết tương đối tổng quát và Nguyên lý Mach. Chỉ chừng ấy thôi cũng đã quá đủ để Ernst Mach được lịch sử khoa học đặt ở một vị trí vô cùng trang trọng. Wikipedia nhận định:
+
+“Với tư cách là một nhà triết học khoa học, ông có ảnh hưởng chủ yếu đến chủ nghĩa thực chứng logic và thông qua sự phê phán của ông đối với lý thuyết của Newton, ông được xem như một nhà tư tưởng tiền thân của thuyết tương đối Einstein”.
+
+Nếu “Tư tưởng tạo nên tầm vóc con người” (Pensée fait la grandeur de l’homme) như Pascal đã nói thì Mach phải được xem là một người khổng lồ, bởi Nguyên lý Mach không chỉ dẫn tới những hệ quả lớn lao trong vật lý, mà còn mang tầm cỡ triết học bao trùm toàn vũ trụ: nó là bằng chứng khoa học hùng hồn nhất để chỉ ra rằng VŨ TRỤ LÀ NHẤT THỂ!
+
+Thật vậy, theo Nguyên lý Mach, bất kể vật chất nào trong vũ trụ cũng phải gắn kết chặt chẽ với toàn bộ phần còn lại của vũ trụ; không tồn tại bất kỳ một cá thể độc lập nào; sự phân chia vật chất thành những thành phần đối lập loại trừ lẫn nhau là sai lầm, giả tạo, bởi toàn vũ trụ là MỘT!
+
+2/ Vũ trụ Nhất thể trong khoa học Tây phương:
+
+Thực ra không chỉ Nguyên lý Mach mới thể hiện tư tưởng Vũ trụ Nhất thể. Khoa học Tây phương, một mặt triệt để áp dụng phương pháp phân tích “chẻ hoe sợi tóc” kiểu Descartes để chia tách sự vật thành những thành phần ngày càng nhỏ hơn hòng truy tìm bản chất của vật chất, nhưng tư tưởng bao trùm của nó vẫn là khám phá ra những nguyên lý phổ quát nhất của vũ trụ, nhằm thỏa mãn khát vọng nhìn thấy vũ trụ dưới dạng tổng thể, như ta chiêm ngưỡng một tòa lâu đài kỳ vĩ vậy. Mô hình Cơ học Newton, Thuyết tương đối tổng quát của Einstein, Lý thuyết Big Bang,… chính là những mô hình vũ trụ tổng thể như thế. Nhân đây xin kể một chuyện “vui”:
+
+Năm 2004, tôi gửi bản thảo dịch cuốn “God’s Equation” tới NXB Trẻ, với tên sách là “Phương trình của Chúa”, nhưng Cục xuất bản không chấp nhận chữ “Chúa”, và yêu cầu đổi tiêu đề (thật đáng tiếc!). Tôi nghĩ mãi không biết đổi như thế nào. Cuối cùng tôi nghĩ ra cái tên dài dòng khô không khốc: “Câu chuyện về phương trình thâu tóm cả vũ trụ”. Nếu tác giả biết sách của ông bị “biến tấu” như thế, hẳn là ông sẽ rất thất vọng. Nhưng tôi không có lựa chọn nào khác – đành phải diễn giải “phương trình của Chúa” (tức phương trình trường trong Thuyết tương đối tổng quát của Einstein) như một nỗ lực thâu tóm toàn bộ cấu trúc của vũ trụ.
+
+Nếu phương trình trường quá khó hiểu đối với quảng đại công chúng thì mô hình Big Bang lại rất gần gũi và dễ hiểu đối với mọi người, vì ở đó Vũ trụ Nhất thể đã lộ diện “rõ mồn một”: Điểm Kỳ Dị (singularity point) – điểm ban đầu của vũ trụ mà từ đó đã nổ tung để biến thành vạn vật hôm nay!
+
+Không có gì hài hước khi so sánh Điểm Kỳ Dị của Lý thuyết Big Bang với Thái Cực trong Kinh Dịch, bởi trong con mắt của Kinh Dịch, cái gốc của vũ trụ là Thái Cực: Thái Cực sinh Lưỡng nghi, Lưỡng nghi sinh Tứ tượng, Tứ tượng sinh Bát quái, Bát quái sinh 64 quẻ ứng với vạn sự…
+
+Lý thuyết thống nhất vật lý, mà ngày nay được gọi là Lý thuyết về mọi thứ (Theory of Everything) là một nỗ lực tột cùng của khát vọng mô tả Vũ trụ Nhất thể “bằng xương bằng thịt”, ngõ hầu sau đó các nhà vật lý có thể “nghỉ ngơi, thư giãn”, vì nhiệm vụ chủ yếu của vật lý đã hoàn thành! Việc khám phá ra “Hạt của Chúa” trong năm 2012 vừa qua đã làm nức lòng rất nhiều người rằng cái ngày ca khúc khải hoàn của vật lý sắp tới. Không biết cái ngày ấy có tới hay không, nhưng rõ ràng là vật lý khao khát cháy bỏng nhìn thấy một Vũ trụ Nhất thể hoàn chỉnh.
+
+3/ Vũ trụ nhất thể trong triết học Đông phương:
+
+Khác với Tây phương, Đông phương cổ đại không mất thì giờ tìm kiếm và chứng minh sự hiện hữu của Vũ trụ Nhất thể, bởi vì bằng trực giác, các nhà hiền triết cổ từ lâu đã tin chắc rằng NÓ ắt phải là cái GỐC của vạn vật. Không có NÓ thì không có vạn vật. NÓ được gọi bằng nhiều tên khác nhau: Dịch gọi là Thái Cực, Lão giáo gọi là ĐẠO. Bản thân chữ ĐẠO trong tiếng Hán là một từ “hội ý”, và những ý hội thành chữ Đạo cho thấy ý nghĩa của nó là cái gốc của Vũ trụ, là cái toàn thể của vũ trụ, cái thâu tóm và thống nhất vạn sự trong cái MỘT. Tóm lại, Đạo chính là tư tưởng nền móng của Vũ trụ Nhất thể. Tư tưởng của Đạo cũng như Thái Cực đã sớm được sơ đồ hóa dưới dạng Thái Cực đồ:
+
+Tuy Đạo hay Thái Cực của Đông phương có những điểm tương đồng với Vũ trụ Nhất thể của Tây phương, nhưng Đạo hay Thái Cực rộng lớn hơn và phong phú hơn rất nhiều, bởi hai lẽ:
+
+– Một, nó không chỉ bao gồm vật chất, mà còn bao gồm cả những gì được coi là phi vật chất hoặc siêu vật chất. Nói cách khác, nó bao gồm tất cả những gì mà giác quan và tư tưởng có thể nhận thức được.
+
+– Hai, thay vì phân chia vũ trụ thành những phân tử, nguyên tử hay hạt cơ bản, sóng năng lượng,… vũ trụ Đông phương chỉ chú trọng tới yếu tố căn bản nhất, đó là sự cân bằng âm-dương, biểu hiện qua các cặp yếu tố đối lập: nữ-nam; lạnh-nóng; nguyệt-nhật; lõm-lồi; đêm-ngày; mềm-cứng; thụ động-chủ động; trực giác-logic lý luận;….
+
+Để bổ sung cho cách nhìn vũ trụ thuần túy vật chất của Tây phương, tôi xin nêu lên một mô hình Vũ trụ Nhất thể chứa đựng cả vật chất lẫn các yếu tố phi vật chất, dựa trên cách thể hiện của khoa học Tây phương.
+
+4/ Mô hình vũ trụ Elliptic-Hyperbolic:
+
+Phần dương (+) trong mô hình trên, ký hiệu bởi (E), được giới hạn bởi đường Ellipse; phần âm (–), ký hiệu bởi (H), được giới hạn bởi các đường Hyperbole liên hợp với Ellipse. Cụ thể, mô hình E-H được xác định bởi các miền giới hạn bởi các đường cong có phương trình[3]:
+
+trong đó hai phương trình
+
+mô tả cùng một Ellipse: phương trình thứ nhất mô tả Ellipse trong hệ tọa độ Oxy, phương trình thứ hai mô tả Ellipse trong hệ OXY, hai hệ có thể biến đổi lẫn nhau sao cho hệ này biến thành hệ kia bằng một phép quay và đổi chiều trục sao cho y thành X và x thành –Y (phép hoán vị vai trò của biến và hàm).
+
+Trong mỗi hệ tọa độ đó, Ellipse có một Hyperbole liên hợp tương ứng. Vậy nếu bỏ qua cái vỏ toán học để nhìn vấn đề dưới con mắt vật lý thì mỗi Ellipse sẽ có 2 Hyperbole liên hợp với nó và chúng sẽ xác định các phần dương và âm của vũ trụ.
+
+Trong mô hình trên, (E) là phần dương (+), phần vũ trụ Elliptic, hoặc vũ trụ Einstein, tức vũ trụ chứa đựng tất cả những dạng vật chất có thể cân đong đo đếm được, bao gồm vật chất có khối lượng, năng lượng (và có thể cả vật chất tối lẫn năng lượng tối?). Trong khi chờ đợi việc khám phá ra bí mật của năng lượng tối, tôi cho rằng dưới tác dụng của hấp dẫn, không gian này bị lồi – có độ cong dương (elliptic curvature).
+
+(H) là phần âm (–), phần vũ trụ Hyperbolic, chứa đựng tất cả những dạng tồn tại phi vật chất hoặc siêu vật chất không thể cân đong đo đếm được, có thể bao gồm cả thế giới sau sự sống mà tất cả các nền văn hóa trên thế giới đều tin rằng nó tồn tại.
+
+Chú ý rằng Hyperbole thực chất chỉ là một Ellipse ảo. Thật vậy:
+
+Điều đó nói lên rằng vũ trụ Hyperbolic và vũ trụ Elliptic thống nhất trong cùng một bản chất. Bản chất đó là gì nếu không phải là Đạo hay Thái Cực mà triết học Đông phương từng nói đến?
+
+Mô hình vũ trụ Elliptic-Hyperbolic nói trên phong phú hơn mô hình vũ trụ Big Bang ở 2 điểm căn bản:
+
+– Một, nó thâu tóm cả vật chất lẫn phi vật chất
+
+– Hai, nó thể hiện rõ tính thống nhất và cân bằng âm dương – điều kiện thiết yếu của sự tồn tại và phát triển.
+
+Trong một cuộc thảo luận bàn trà với tôi, nhà ngôn ngữ học Nguyễn Văn Chiến, nguyên chuyên viên nghiên cứu thuộc Viện Đông Nam Á, có một liên tưởng thú vị: khái niệm Thái Cực không phải là hoàn toàn trừu tượng, mà có thể “nhìn thấy”, “sờ thấy” qua hình ảnh của những sinh vật sinh sản vô tính: con giun, con sán,… có thể sinh sôi nẩy nở bằng cách tự phân chia, thay vì kết hợp hai giống đực và cái. Điều đó có nghĩa là những sinh vật này đã chứa đựng trong bản thể của nó cả âm lẫn dương. Chỉ có điều là sinh vật học chưa khám phá được cơ chế kết hợp âm dương nội tại trong những sinh vật này diễn ra như thế nào. Nhưng dù chưa biết rõ điều đó, chúng ta vẫn có thể khẳng định rằng những sinh vật này là những “thái cực thu nhỏ”.
+
+Trở lại với mô hình vũ trụ Elliptic-Hyperbolic (một “Thái cực đồ” kiểu Tây phương), tôi tin rằng từ mô hình này chúng ta có thể giải thích được nhiều điều mà mô hình thuần túy vật chất không giải thích được.
+
+Chẳng hạn, tôi cho rằng tồn tại một thế giới sau sự sống. Nhưng vì thế giới ấy nằm trong vũ trụ “elliptic ảo” nên chúng ta rất khó tiếp cận (trừ những người có ngoại cảm đặc biệt) – thế giới “ảo” không tuân thủ các định luật vật lý trong không-thời-gian của chúng ta, do đó chúng ta không thể kiểm chứng trực tiếp bằng giác quan hoặc gián tiếp qua các dụng cụ vật lý. Tuy nhiên “ảo” không có nghĩa là “không có thực” (như nghĩa gốc của từ imaginary), “ảo” không có nghĩa là không có, không tồn tại, mà đơn giản chỉ có nghĩa là chuyển từ một dạng tồn tại này sang một dạng tồn tại có chiều ngược lại, giống như nhân một vector với bình phương của số ảo (khi nhân một vector với bình phương của số ảo ta được vector đối của vector đã cho).
+
+Khái niệm “thực vs ảo” hoàn toàn chỉ có ý nghĩa tương đối như hai mặt của một đồng xu – nhìn thấy mặt này thì không thấy mặt kia, nhưng cả hai mặt đều “thực”. Con người có thói quen coi cái trông thấy là “thực”, cái không thấy là “ảo”.
+
+Khi ta tồn tại trong thế giới sống thì thế giới sống là “thực” và thế giới sau sự sống là “ảo”. Khi ta trở về với thế giới sau sự sống thì thế giới đó là “thực” và thế giới sống là “ảo”. Có lẽ những nhà tu hành đắc đạo có khả năng siêu phàm vượt ra khỏi không-thời-gian của thế giới sống để nhận ra tính hư ảo và tạm bợ của thế giới này nên mới mách cho chúng ta biết rằng mọi ham muốn vật chất trong thế giới sống chỉ là những ham muốn tầm thường. Albert Einstein không cần tu đắc đạo nhưng tâm hồn lãng mạn của ông cũng chắp cánh cho ông bay cao để nhận ra chân lý giống như một bậc tu hành, ông nói: “Những mục đích tầm thường mà người đời theo đuổi như của cải, thành đạt bề ngoài, sự xa xỉ, với tôi từ thời trẻ đã luôn đáng khinh”[4].
+
+Mô hình vũ trụ E-H còn đặt ra một câu hỏi đáng để suy ngẫm và tìm câu trả lời: “khoảng trống” – khoảng mầu trắng – không thuộc (E) và cũng không thuộc (H) là vũ trụ gì vậy?
+
+Tôi xin nêu một giả thuyết:
+
+Khoảng trắng trong mô hình vũ trụ E-H là một “vũ trụ medium” – một vũ trụ không E không H, hoặc vừa E vừa H, tức không âm không dương, hoặc vừa âm vừa dương. Sự chuyển tiếp từ vũ trụ dương sang vũ trụ âm có thể đi thông qua các cực đông, tây, nam, bắc của Ellipse, hoặc có thể thông qua “vũ trụ medium”. Những nhà ngoại cảm có thể là những người tồn tại trong “vũ trụ medium” nên họ có thể nhận được thông tin của cả hai thế giới: thế giới sống và thế giới sau sự sống. Có những người vốn không có khả năng ngoại cảm, nhưng sau những sự cố đặc biệt (thập tử nhất sinh) bỗng có những khả năng đặc biệt mà chúng ta không có. Có lẽ sự cố đặc biệt ấy chẳng qua là sự chuyển tiếp từ vũ trụ Elliptic (thế giới sống) sang “vũ trụ medium”.
+
+5/ Thay lời kết:
+
+Một, giống như Thái cực đồ của Đông phương cổ đại, mô hình E-H chia vũ trụ thành những phần âm, dương cách biệt, có đường biên rõ ràng, nhưng đó chỉ là một biểu tượng để phân biệt các yếu tố làm nên vũ trụ. Thực tế thì âm, dương lẫn lộn, tồn tại xen kẽ hoặc cùng tồn tại trong một sự vật hay sự việc. Tùy từng sự vật hay sự việc, yếu tố dương, âm có thể biểu lộ rõ hơn, mạnh hơn, hay mờ hơn, yếu hơn. Nhưng tiên đề của cổ học Đông phương đã khẳng định rằng có dương thì ắt có âm cân bằng với nó.
+
+Hai, câu chuyện con lắc Foucault của thầy Cang không ngờ đã kéo tôi đi vòng quanh thế giới, “bay lang thang trong vũ trụ”. Khi đã trưởng thành, tôi được biết thầy không chỉ giỏi khoa học, mà còn là một tâm hồn đầy ắp văn chương (nghe nói thầy là một pho bách khoa thơ Đường). Tóm lại thầy là một tâm hồn lãng mạn.
+
+Lãng mạn là gì? Lãng mạn là biết đặt câu hỏi và sống với khát vọng tìm ra câu trả lời.
+
+Nếu câu chuyện con lắc Foucault và Vũ trụ Nhất thể kích thích độc giả đặt câu hỏi và say đắm tìm câu trả lời thì đó là hạnh phúc của người kể chuyện.
+
+Ngày 13/09/2013
+
+PVHg
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[1] “God’s Equation”, Amir Aczel, Four Walls Eight Windows, 1999. Bản tiếng Việt: “Câu chuyện về phương trình thâu tóm cả vũ trụ”, người dịch: Phạm Việt Hưng, NXB Trẻ 2004. Trên PhamVietHung’s Home: https://viethungpham.wordpress.com/2012/12/29/phuong-trinh-cua-chua-chuong-11-suy-xet-vu-tru/
+
+[2] Sách đã dẫn, trang 158 (bản tiếng Anh), trang 190 (bản dịch tiếng Việt)
+
+[3] Xem thêm Phụ Lục ở cuối bài
+
+[4] Thế giới như tôi thấy, NXB Tri thức 2005, trang 17
