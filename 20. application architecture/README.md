@@ -16,6 +16,6 @@ Trong đó:
     - V : version
     - e : sử dụng template ejs engine 
     - H : 
-    - c : 
+    - c :  
     - f : 
 khi đã tạo ứng dụng thành công cần tiến hành ```$ cd myapp``` và chạy lệnh ```$ npm install```
