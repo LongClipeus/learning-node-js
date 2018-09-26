@@ -18,4 +18,5 @@ Trong đó:
     - H : 
     - c :  
     - f : 
+    
 khi đã tạo ứng dụng thành công cần tiến hành ```$ cd myapp``` và chạy lệnh ```$ npm install```
