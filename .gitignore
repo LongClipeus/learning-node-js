@@ -74,3 +74,6 @@ typings/
 
 # Debuge visual studio code
 .vscode
+
+# Test
+test/
