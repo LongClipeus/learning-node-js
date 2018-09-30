@@ -1,0 +1,17 @@
+{
+  "name": "learn-use-asynquence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "asynquence": "^0.10.2",
+    "asynquence-contrib": "^0.28.2",
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "longclipeus",
+  "license": "ISC"
+}

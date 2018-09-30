@@ -16,5 +16,6 @@ if (args.help || !args.file) {
 
 var hello = require('./hello');
 
-var contents = hello.read_file(args.file)
-console.log(contents.toString());
+hello.read_file(args.file , function (err, contents) {
+	console.log(contents.toString());	
+});

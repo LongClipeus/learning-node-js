@@ -1,5 +1,8 @@
+/**
+ * Install asynquence: npm install asynquence asynquence-contrib
+ */
 function printHelp() {
-    console.log('app4.js (c) LongClipeus');
+    console.log('app.js (c) LongClipeus');
     console.log('');
     console.log('usage:');
     console.log('--help				print this help');
@@ -14,13 +17,12 @@ if (args.help || !args.file) {
     process.exit(1);
 }
 
-var hello = require('./welcome');
+var hello = require('./hello');
 
-hello.read_file(args.file, function (err, contents) {
-    if (err) {
-        console.log(err);
-
-    } else {
+hello.say(args.file)
+    .val(function (contents) {
         console.log(contents.toString());
-    }
-});
+    })
+    .or(function (err) {
+        console.error(err);
+    });
